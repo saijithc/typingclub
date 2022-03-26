@@ -1,0 +1,510 @@
+.first{
+    background-color: #084f8e;
+    background-image: url(../img/sky2.png), linear-gradient(0deg, #084f8e, #083466 80%);
+    width: 100%;
+    height: 600px;
+    
+    
+}.typing{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+
+}
+
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+    
+}.logo {
+    font-family: 'Montserrat';
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 13px;
+    background-image: url("img/download\ \(1\).png");
+}.moon{
+    width: 200px;
+    margin-left: 159px;
+    margin-top: 97px;
+
+}.links{
+    width: 70%;
+    height: 10px;
+    color: white;
+    cursor: pointer;
+    margin-left: 15px;
+    display: block;
+    position: relative;
+     background-color: transparent;
+     float: right;
+    
+    
+
+    
+}.style1{
+    float: left;
+    margin-top: -45px;
+    margin-left: 387px;
+}.style2{
+    float: left;
+    margin-top: -45px;
+    margin-left: 45px;
+}.style3{
+    float: left;
+    margin-top: -45px;
+    margin-left: 45px;
+}.style4{
+    
+    float: left;
+    margin-top: -45px;
+    margin-left: 45px;
+}.fontposi{
+    margin-left: 130px;
+    margin-top: 120px;
+    font-weight: 200;
+    
+}.buttonposi{
+    width: 200px;
+    height: 50px;
+    margin-left:  135px;
+    margin-top: -7px;
+}.second{
+    height: 530px;
+    width: 100%;
+    background-color: white;
+}.img{
+    width: 495px;
+    margin-left: 111px;
+    margin-top: 100px;
+}.fontpos{
+    width: 450px;
+    height: 50px;
+    font-size: 13px;
+    word-spacing: 10px;
+    margin-left: 641px;
+    margin-top: -424px;
+    color: #BEC8CE;
+}.para{
+    margin-left: 641px;
+    margin-top: -44px;
+    word-spacing: 10px;
+    font-size: 27px;
+    color: #2D3238;
+    font-family: "Work sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+}.fontpo{
+    width: 450px;
+    height: 50px;
+    font-size: 18px;
+    word-spacing: 2px;
+    margin-left: 641px;
+    margin-top: 5px;
+    color: #6C6F73;
+    line-height: 1.6;
+    font-weight: 300;
+    letter-spacing: -.02em;
+}.buttonpos{
+    color: #fff;
+    background-color: #2595FF;
+    border-color: #0b89ff;
+    margin-left: 641px;
+    margin-top: 40px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 150px;
+    height: 38px;
+    font-size: 16px;
+    text-transform: none;
+    letter-spacing: normal;
+
+}.third{
+    height: 135px;
+    width: 100%;
+    background-color: #084f8e;
+}.student{
+    width: 50px;
+    height: 59px;
+    margin-left: 16%;
+    margin-top: 33px;
+}.million{
+    margin-left: 280px;
+    margin-top: -52px;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: white;
+}.school{
+    width: 53px;
+    height: 59px;
+    margin-left: 20%;
+    margin-top: 33px;
+    
+}.number{
+    margin-left: 600px;
+    margin-top: -56px;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: white;
+
+}.teacher{
+    width: 70px;
+    height: 59px;
+    margin-left: 20%;
+    margin-top: 33px;
+}.count{
+    margin-left: 920px;
+    margin-top: -56px;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: white;
+
+
+}.forth{
+    height: 325px;
+    width: 100%;
+    background-color: #f4f5f6;
+}.h3{
+    width: 252px;
+    margin-left: 20px;
+    margin-top: 1px;
+    margin-bottom: 14.5px;
+    font-family: "Work sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2D3238;
+    font-size: 28px;
+    padding: 127px;
+}.para1{
+    margin: 150px;
+    margin-top: -125px;
+    font-family: "Work sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #6C6F73;
+}.h3one{
+    width: 312px;
+    margin-left: 830px;
+    margin-top: -266px;
+   
+    font-family: "Work sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2D3238;
+    font-size: 28px;
+   
+}.para2{
+    margin-left: 830px;
+    margin-top: -21px;
+    font-family: "Work sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #6C6F73;
+}.fifth{
+    width: 100%;
+    height: 1100px;
+    background-color:white;
+    margin-top: -3%;
+}.h4{
+    color: #BEC8CE;
+    text-transform: uppercase;
+    margin-left: 44%;
+    margin-top: -75%;
+}.h3two{
+    color: #2D3238;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    word-spacing: 4px;
+    margin-left: 35%;
+    margin-top: -1%;
+    font-size:160%;
+    line-height: 1.2
+    
+    
+}.star{
+    width: 280px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-left: 15%;
+    padding-top: 25px;
+}.hand{
+    width: 176px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    margin-left: 7%;
+    padding-top: 25px;
+}.badge{
+    width: 90px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    margin-left: 13%;
+    padding-top: 25px;
+
+}.access{
+    width: 80px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    margin-left: 20%;
+    padding-top: 25px;
+}.experience{
+    width: 130px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    margin-left: 20%;
+    padding-top: 25px;
+}.voice{
+    width: 100px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 15%;
+    padding-top: 25px;
+
+}.play{
+    width: 80px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    margin-left: 20%;
+    padding-top: 25px;
+
+}.google{
+    width: 190px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    margin-left: 18%;
+    padding-top: 25px;
+
+}.keyboard{
+    width: 120px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 12%;
+    padding-top: 25px;
+
+
+}.button{
+    color: #fff;
+    background-color: #2595FF;
+    border-color: #0b89ff;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    margin-left:  560px;
+    margin-top: 50px;
+    font-weight: 400;
+    border: 1px solid transparent;
+
+
+}.sixth{
+    height:2200px;
+    width: 100%;
+    float: left;
+    margin-top: 3%;
+    background: #f4f5f6;
+}.h4two{
+    color: #BEC8CE;
+    text-align: center;
+    margin-left: 4%;
+    margin-top: 10%;
+}.dvorak{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 150px;
+    padding-top: 25px;
+}.junior{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    padding-top: 25px;
+}.LR{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    padding-top: 25px;
+}.solo{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 150px;
+    padding-top: 25px;
+
+}.ava{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    padding-top: 25px;
+
+}.match{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    padding-top: 25px;
+
+}.spanish{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 150px;
+    padding-top: 25px;
+
+}.french{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    padding-top: 25px;
+
+}.german{
+    width: 310px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    padding-top: 25px;
+
+}.spell{
+    width: 397px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 477px;
+    padding-top: 25px;
+
+}.seven{
+    width: 100%;
+    height: 425px;
+    background-color: #262f36;
+    float: left;
+}.district{
+    width: 250px;
+    margin-top: 7.5%;
+    margin-bottom: 25px;
+    margin-left: 135px;
+    padding-top: 25px;
+
+
+}.button2{
+    width: 200px;
+    height: 50px;
+    border-radius: 6px;
+    margin-left: 38%;
+    margin-top: 50px;
+    font-size: large;
+}.eight{
+    width: 100%;
+    height: 450px;
+    background: linear-gradient(#0071b1, #02aabb);
+    float: left;
+}.form{
+    margin-left: 20%;
+      width: 798px;
+       height: 100px;
+       padding: 6px 12px;
+       background-color: rgb(97, 214, 243);
+       border: 1px solid #ccc;
+       border-radius: 5px;
+       box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    
+}.input{
+    width: 550px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 4%;
+    margin-left: 20px;
+}.button3{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    background-color: #2595FF;
+    border-color: #0b89ff;
+    margin-left: 2%;
+    margin-top: 2.3%;
+    border-radius: 6px;
+}.nine{
+    width: 100%;
+    height: 850px;
+    background-color: white;
+    margin-top: 10%;
+}.imgfinal{
+    margin-top: 1%;
+    width: 910px;
+    margin-left: 14%;
+}.ten{
+    width: 100%;
+    height: 300px;
+    background: #f4f5f6;
+}.eleven{
+    width: 100%;
+    height: 470px;
+    background-color: #262f36;
+}.text1{
+    margin-left: 148px;
+    margin-top: 0%;
+    font-size: small;
+    letter-spacing: .15em;
+    padding-top: 8%;
+    color: white;
+}.text2{
+   
+    
+    margin-top: -14.5%;
+    font-size: small;
+    letter-spacing: .15em;
+    padding-left: 47%;
+    color: white;
+
+}.text3{
+    margin-top: -14.5%;
+    font-size: small;
+    letter-spacing: .15em;
+    padding-left: 70%;
+    color: white;
+    padding-top: 7%;
+    font-weight: 300;
+    letter-spacing: -.02em;
+    font-size: 15px;
+    line-height: 1.4;
+
+}.twitter{
+    width: 50%;
+    height: 40px;
+    padding-top: 5%;
+    margin-left: 1%;
+    margin-top: 5%;
+    position: absolute;
+    border: none;
+}
+
+.btn{
+    width: 85px;
+    height: 30px;
+    background-color: #1d9bf0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-left: 1070px;
+    margin-top: -173px;
+}
+
+.button4{
+    cursor: pointer;
+    border: none; 
+    outline: none;
+    background-color:#1d9bf0 ;
+    color: white;
+    margin-right: 5px;
+    
+}
+.btn i{
+    padding-left: 10px;
+}
